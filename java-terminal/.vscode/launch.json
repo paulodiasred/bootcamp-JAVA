@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Problem",
+            "request": "launch",
+            "mainClass": "Problem",
+            "projectName": "java-terminal_8bd86897"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -21,7 +28,6 @@
                 "37",
                 "1.75"
             ],
-            
             "projectName": "java-terminal_8bd86897"
         },
         {
