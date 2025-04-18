@@ -4,7 +4,6 @@ public class Tv {
     }
 
     void mudarCanal(int novoCanal) {
-        int canal = 1;
         canal = novoCanal;
     }
 }
